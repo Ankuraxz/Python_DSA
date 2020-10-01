@@ -1,4 +1,4 @@
-#In case you are looking to contribute:
+# In case you are looking to contribute:
 
 1. No changes in this readme is allowed
 2. Minor change in code are not allowed
