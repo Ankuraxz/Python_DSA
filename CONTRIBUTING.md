@@ -7,3 +7,5 @@
 5. Only .py files of Data structres or algos or interview problems, that are not done already are allowed
 6. Using inbuilt functions and calling it algo, is not allowed.
 7. Reference should be mentioned properly
+
+- All submissions will need to pass the test __flake8 . --ignore=E203,W503 --max-line-length=88__ before they will be accepted so if possible, try this test locally on your Python file(s) before submitting your pull request.
