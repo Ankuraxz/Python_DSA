@@ -11,5 +11,5 @@
 ![picture alt](q3.jpg "CP-DSA")
 ## Q4. Steps to Make 1 --> Hard
 ### Ans:- https://github.com/Ankuraxz/Python_DSA/blob/master/Interview%20problem/Google/Q3.py
-![picture alt](q4.jpg "CP-DSA")
+![picture alt](q4.jpeg "CP-DSA")
 
